@@ -1,0 +1,7 @@
+{
+  "name": "Fabricius Rongorongo Research Lab",
+  "description": "Corpus analysis and blind structural epigraphy workbench for Rongorongo script inscriptions without linguistic assumptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
